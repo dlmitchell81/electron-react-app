@@ -1,5 +1,5 @@
 ### Install packages
-yarn install
+```yarn install```
 
 ### Start
-yarn start
+```yarn start```
